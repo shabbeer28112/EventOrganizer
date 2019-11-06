@@ -1,0 +1,6 @@
+com\srk\EventOrganizer\service\EventService.class
+com\srk\EventOrganizer\service\impl\EventServiceImpl.class
+com\srk\EventOrganizer\EventOrganizerApplication.class
+com\srk\EventOrganizer\entity\Event.class
+com\srk\EventOrganizer\repository\EventRepository.class
+com\srk\EventOrganizer\controller\EventController.class
