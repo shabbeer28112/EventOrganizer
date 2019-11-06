@@ -39,6 +39,10 @@ public class EventController {
 		return eventService.save(event);
 	}
 	
+	/*
+	 * Update an event
+	 * we need to pass a eventId also to update a specific event. 
+	 */
 	@PutMapping("/update")
 	public Event updateEvent(@RequestBody Event event) {
 		return eventService.updateEvent(event);
